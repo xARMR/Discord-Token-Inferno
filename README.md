@@ -1,40 +1,54 @@
-# Discord Token Bruteforcer 😈💀🔥
+<div align="center">
+  <h1>Discord Token Inferno 🔥😈💣</h1>
+  <img src="https://img.shields.io/badge/version-2.0-red.svg" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  <img src= "https://img.shields.io/github/stars/xARMR/Discord-Token-Bruteforcer.svg" alt = "Stars">
+</div>
+<div align="center">
+  <strong>Welcome to the Discord Token Inferno! Get any discord account By an ID only
+  ! 🔥😈</strong>
+</div>
 
-![Version](https://img.shields.io/badge/version-1.0-red.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+<div align="center">
+  <img src="image2.png" alt="Image Preview">
+  <img src="image1.png" alt="Image Preview">
+</div>
 
-## Description
-Welcome to the Discord Token Bruteforcer,This devilish Python script allows you to generate and check Discord tokens, paving the way for chaos and malevolence. 😈 Simply run the script, and it will automatically start generating tokens to unleash discord upon the unsuspecting users.
+## 🌪️ What is Discord Token Inferno?
+
+The Discord Token Inferno is a wickedly powerful Python script that allows you to generate and check Discord tokens, paving the way for pure chaos and malevolence. 😈 Simply run this infernal script, and it will automatically generate tokens With ur desired discord account upon unsuspecting users.
 
 ## Proxy Support (Coming Soon!)
-I promise to add Proxy Support If it reach 5 stars to further cloak your malicious activities. 😈
-So, don't forget to show your appreciation by giving it a shiny 5-star rating!
+- I promise to add Proxy Support If it reach 5 stars to bybass discord Ratelimit. 😈
+- So, don't forget to show your appreciation by giving it a shiny 5-star rating!
+## 🦹‍♂️ Key Features
 
-## Features
-- 🦹‍♂️ Generate malicious Discord tokens with enhanced unpredictability.
-- 📝 Save valid tokens to a file for future diabolical exploits.
-- 🖥️ Cross-platform support - works on both Windows and Unix-based systems.
+- **Enhanced Unpredictability:** Generate malicious Discord tokens with enhanced unpredictability, leaving your targets in disarray.
+- **Save for Darker Exploits:** Save valid tokens to a file for future diabolical exploits, building your arsenal of wickedness.
+- **Cross-platform Support:** Works seamlessly on both Windows and Unix-based systems, spreading chaos everywhere!
 
-## How to use
-1. Ensure that you have Python 3.x installed.
-2. Run the script: `python discord_token_bruteforcer.py`
-3. Enter the number of tokens you want to generate and the user ID of the target.
-4. Sit back and watch as the tokens are checked for validity. 💀
-5. Reach the grand milestone of 5 stars, and the script will automatically unlock proxy support to evade rate limits!
+## 📝 How to Run it
 
-## Disclaimer
-This tool is provided for educational and entertainment purposes only. As the creator, I, along with the contributors and anyone associated with this project, im not responsible for any malicious or unlawful activities carried out using this tool.
+1. **Python 3.x Required:** Ensure that you have Python 3.x installed to summon this inferno.
+2. **Ignite the Inferno:** Run the script with `python discord_token_inferno.py` and let the darkness unfold.
+3. **Specify Targets:** Enter the number of tokens you want to generate and the user ID of your unsuspecting target.
+4. **Watch the Carnage:** Sit back and watch as the tokens are checked for validity. 💀
+5. **Unlock Proxy Support:** Achieve the grand milestone of 5 stars, and the inferno will automatically unlock proxy support to evade rate limits! 😈
 
-## Author
 
-💀 ARMR 💀 - The Master of Malevolence
+## 👑 Author
 
-## Contribution
-Contributions to make this bruteforcer even more sinister are welcome! Feel free to fork this repository, make your diabolical changes, and submit a pull request. Let's unleash darkness together! 😈
+💀 ARMR 💀
 
-## License
+## 🌟 Contributions Welcome!
+
+Contributions to make this inferno even more sinister are highly welcome! Feel free to fork this repository, enhance its malevolence, and submit a pull request. Let's unleash an eternal darkness together! 😈
+
+## 📄 License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Happy spreading of chaos and evil! 💣🔥 Remember, you're delving into the realm of wickedness, and there's no turning back now! 😈💀💻
+🔥😈💻 Embrace the Inferno! Unleash the Power of Discord Malevolence! 💣🌪️
+
