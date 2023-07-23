@@ -41,7 +41,7 @@ def get_token(user_id):
 
 def check_token_validity(token):
     headers = {
-        'Authorization': token
+        'Authorization': token,
     }
     try:
         login = requests.get('https://discordapp.com/api/v9/users/@me', headers=headers)
@@ -75,7 +75,7 @@ def main():
     init()
     clear_console()
     print_banner()
-    print(f"{Fore.BLUE}[$]{Style.RESET_ALL}    Dev:{Style.RESET_ALL} {Fore.BLUE}ARMR{Fore.WHITE} <3")
+    print(f"{Fore.MAGENTA}[$]{Style.RESET_ALL}    Dev:{Style.RESET_ALL} {Fore.MAGENTA}ARMR{Fore.WHITE} <3")
     time.sleep(3)
     clear_console()
 
@@ -83,9 +83,9 @@ def main():
     while True:
      try:
         num_tokens_to_generate = int(input(
-            f"{Fore.YELLOW}[$]{Style.RESET_ALL}    HOW MANY CHECKS  : {Fore.YELLOW}"))
+            f"{Fore.MAGENTA}[$]{Style.RESET_ALL}    HOW MANY CHECKS  : {Fore.MAGENTA}"))
         user_id = input(
-            f"{Fore.YELLOW}[$]{Style.RESET_ALL}    USER ID  : {Fore.YELLOW}")
+            f"{Fore.MAGENTA}[$]{Style.RESET_ALL}    USER ID  : {Fore.MAGENTA}")
 
         if not user_id.isdigit():
             raise ValueError
