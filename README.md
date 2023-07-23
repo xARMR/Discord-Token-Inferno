@@ -7,7 +7,7 @@
 Welcome to the Discord Token Bruteforcer - a sinister tool designed to generate Discord tokens for nefarious purposes. Use it at your own risk, for this tool knows no bounds!
 
 ## Proxy Support (Coming Soon!)
-I, the devious creator of this tool, have a wicked ambition! If this repository receives a 5-star rating, I promise to add Proxy Support to further cloak your malicious activities. 😈 So, don't forget to show your appreciation by giving it a shiny 5-star rating!
+If this repository receives a 5-star rating, I promise to add Proxy Support to further cloak your malicious activities. 😈 So, don't forget to show your appreciation by giving it a shiny 5-star rating!
 
 ## Features
 - 🦹‍♂️ Generate malicious Discord tokens with enhanced unpredictability.
