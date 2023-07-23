@@ -12,7 +12,19 @@ os.system('cls' if os.name == 'nt' else 'clear')
 def encode_base64(input_str):
     return base64.urlsafe_b64encode(input_str.encode()).decode().rstrip("=")
 
+banner = (Fore.MAGENTA + """
 
+ ▄▄▄          ██▀███      ███▄ ▄███▓    ██▀███  
+▒████▄       ▓██ ▒ ██▒   ▓██▒▀█▀ ██▒   ▓██ ▒ ██▒
+▒██  ▀█▄     ▓██ ░▄█ ▒   ▓██    ▓██░   ▓██ ░▄█ ▒
+░██▄▄▄▄██    ▒██▀▀█▄     ▒██    ▒██    ▒██▀▀█▄  
+ ▓█   ▓██▒   ░██▓ ▒██▒   ▒██▒   ░██▒   ░██▓ ▒██▒
+ ▒▒   ▓▒█░   ░ ▒▓ ░▒▓░   ░ ▒░   ░  ░   ░ ▒▓ ░▒▓░
+  ▒   ▒▒ ░     ░▒ ░ ▒░   ░  ░      ░     ░▒ ░ ▒░
+  ░   ▒        ░░   ░    ░      ░        ░░   ░ 
+      ░  ░      ░               ░         ░     
+                                                
+""" + Fore.LIGHTCYAN_EX)
 def generate_random_string(k):
     characters = string.ascii_letters + string.digits + "-_"
     return ''.join(random.choice(characters) for _ in range(k))
@@ -37,7 +49,7 @@ def check_token_validity(token):
             print(f"{Fore.RED}[-] INVALID {token}{Fore.RESET}")
     except:
         print(f"{Fore.RED}[-] ERROR OCCURRED {token}")
-
+print(banner)
 print(f"{Fore.BLUE}[$]{Style.RESET_ALL}    Dev:{Style.RESET_ALL} {Fore.BLUE}AR{Fore.WHITE}MR <3")
 time.sleep(3)
 os.system('cls' if os.name == 'nt' else 'clear')
@@ -50,5 +62,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 for _ in range(num_tokens_to_generate):
     token = get_token(user_id)
     check_token_validity(token)
+os.system('cls' if os.name == 'nt' else 'clear')
+print(banner)
 print(f"{Fore.CYAN}[$]{Style.RESET_ALL}    Finished bruteforce\n{Fore.CYAN}[$]{Style.RESET_ALL}    Press Enter to exit..")
 input()
